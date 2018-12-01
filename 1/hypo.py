@@ -1,7 +1,3 @@
-# Labels :- Sky,AirTemp,Humidity,Wind,Water,Forecast,Enjoy Sport
-# Labels :- Color, Size, Act, Age, Inflated
-
-
 import csv
 hypo = [0,0,0,0]
 
