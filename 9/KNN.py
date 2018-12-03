@@ -1,3 +1,11 @@
+"""
+
+Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library classes can be used for this problem. 
+
+"""
+
+
+
 # import the required packages
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
