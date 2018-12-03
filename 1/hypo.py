@@ -1,3 +1,8 @@
+"""
+Implement and demonstrate the FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file. 
+""" 
+
+
 import csv
 hypo = [0,0,0,0]
 
