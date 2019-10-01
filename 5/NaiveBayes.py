@@ -5,6 +5,7 @@ Write a program to implement the naïve Bayesian classifier for a sample trainin
 """
 
 print("\nNaive Bayes Classifier for concept learning problem")
+import numpy as np
 import csv
 import random
 import math
